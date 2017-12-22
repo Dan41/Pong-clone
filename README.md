@@ -1,2 +1,2 @@
 # Pong clone
-Pong game I made in about an hour or so
+Pong game I created in about an hour or so (mainly for practice)
